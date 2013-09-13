@@ -1,6 +1,12 @@
 Backend Workshop
 =============
 
+Este workshop foi feito com o intuito de mostrar de maneira _hands-on_ como utilizar a gem [sinatra](http://www.sinatrarb.com).
+
+Usandos exemplos do proprio tutorial do sinatra, e também implementando uma aplicação simples. A idéia é fazer um redirecionador (encurtador) de links/URLs. E junto guardar no banco quantas vezes tal URL foi acessada.
+
+Também junto com o workshop estou subindo uma receita do Vagrant que funciona dentro do ambiente da MoWA(Empresa) que estou trabalhando. 
+
 Codigos auxiliares para o Workshop. 
 Para quem quiser utilizar o ambiente para o workshop, seguem abaixo as instruções.
 
