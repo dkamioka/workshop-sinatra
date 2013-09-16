@@ -1,7 +1,6 @@
 # Exemplo do uso do Sinatrarb.
 # esse exemplo cria uma aplicação que deve se comportar como um encurtador de URLs.
-# A arquitetura é simples, basta que para uma dada URL um hash de até 8 caracteres 
-# é gerado que remete ao link depois.
+# A arquitetura é simples, basta que para uma dada URL seja definido uma string (name)
 
 
 require 'sinatra'
